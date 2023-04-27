@@ -1,25 +1,25 @@
-Utilitário de configuração avançada que ajuda a restaurar a sua privacidade e a aumentar a sua segurança.
-O Optimizer é recomendado após uma instalação nova e limpa do Windows para obter a máxima privacidade e segurança.
-Dependendo da sua versão do Windows, o Optimizer também permitirá que você execute alguns ajustes específicos.
+Advanced configuration utility that helps you restore your privacy and increase your security.<br>
+Optimizer is recommended after a fresh, clean installation of Windows to achieve maximum privacy and security.<br>
+Depending on your version of Windows, Optimizer will also allow you to perform some specific tweaks.
 
-Suporte multilingue completo (21 idiomas disponíveis)
-Acelere o desempenho do seu sistema e da rede
-Desabilitar serviços desnecessários do Windows
-Desative a telemetria do Windows, Cortana e muito mais
-Desabilitar a telemetria do Office (funciona somente com o Office 2016)
-Desativar as atualizações automáticas do Windows 10
-Baixe aplicativos úteis rapidamente de uma só vez
-Desinstalar aplicativos UWP
-Limpe a unidade do sistema e os dados de perfil dos principais navegadores
-Corrigir problemas comuns do Registro
-Execute ping em IPs e avalie sua latência
-Pesquisar IPs no SHODAN.io
-Alterar rapidamente o servidor DNS (a partir de uma lista pré-criada)
-Liberar cache DNS
-Remover programas indesejados em execução na inicialização
-Edite seu arquivo HOSTS
-Localizar identificadores de bloqueio de arquivo e eliminar processos associados
-Ferramenta de inspeção de hardware
-Adicionar itens na área de trabalho no menu do botão direito do mouse
-Definir comandos personalizados para a caixa de diálogo de execução
-Suporte a execução silenciosa usando um arquivo de configuração
+- Full multilingual support (21 languages available)
+- Speed up your system and network performance
+- Disable unnecessary Windows services
+- Disable Windows telemetry, Cortana and many more
+- Disable Office telemetry (works only with Office 2016)
+- Disable Windows 10 automatic updates
+- Download useful apps quickly at once
+- Uninstall UWP apps
+- Clean your system drive and major browsers' profile data
+- Fix common registry issues
+- Ping IPs and assess your latency
+- Search IPs on SHODAN.io
+- Rapidly change DNS server (from a pre-made list)
+- Flush DNS cache
+- Remove unwanted programs running at startup
+- Edit your HOSTS file
+- Find file lock handles and kill associated processes
+- Hardware inspection tool
+- Add items in desktop on right-click menu
+- Define custom commands for run dialog
+- Silent run support using a configuration file
